@@ -21,4 +21,6 @@ Um die Fibonacci-Folge für eine bestimmte Anzahl von Zahlen zu berechnen, führ
 
 ## Beispiel
 
+Hier habe ich es mal anhand von 12 Stellen versucht!
 
+![Bildbeschreibung](https://drive.google.com/uc?export=view&id=1L3g_Zq4QQ7kIaw1_ZLvOLM678DjPJHzD)
